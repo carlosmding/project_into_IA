@@ -1,7 +1,7 @@
 # Proyecto Intro IA
 
 #Integrantes
-- Omar Alberto Torres CC  Ingeniería de sistemas
+- Omar Alberto Torres CC 91220873 Ingeniería de sistemas
 - Carlos Alfredo Pinto Hernández CC 1100953378 Ingeniería de Sistemas
 
 Enlace de fuente de datos
