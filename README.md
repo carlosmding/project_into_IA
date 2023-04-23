@@ -7,5 +7,7 @@
 Enlace de fuente de datos
 https://www.kaggle.com/competitions/playground-series-s3e2/data?select=train.csv
 
-Videos
-Primera entrega: https://youtu.be/CfkHxPMptiY
+
+**Videos**
+
+Segunda entrega: https://youtu.be/CfkHxPMptiY
