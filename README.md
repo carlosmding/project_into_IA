@@ -8,6 +8,9 @@ Enlace de fuente de datos
 https://www.kaggle.com/competitions/playground-series-s3e2/data?select=train.csv
 
 
+
 **Videos**
 
-Segunda entrega: https://youtu.be/CfkHxPMptiY
+Segunda entrega: https://youtu.be/CfkHxPMptiY 
+
+Entrega Final: https://youtu.be/F3ZOPrwxypo
